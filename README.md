@@ -5,17 +5,22 @@
 	<tr>
 	   <td width="50%">
 	   <h2>Booki_L2</h2>
-     <p>Livrable 2 : Compétences évaluées</p>
+     <p>Livrable 2</p>
      
-* [Optimiser la taille et la vitesse d’un site web](https://franckdun.github.io/La_Panthere_L4/index.html)
-	
-* [Réaliser une recherche des bonnes pratiques en développement web](https://franckdun.github.io/La_Panthere_L4/index.html)
+* [Implémenter une interface responsive](https://franckdun.github.io/La_Panthere_L4/index.html)
+  
+* [Intégrer du contenu conformément à une maquette](https://franckdun.github.io/La_Panthere_L4/index.html)
 
-* [Écrire un code HTML et CSS maintenable](https://franckdun.github.io/La_Panthere_L4/index.html)
+ 
+    <p>Compétences évaluées</p> 
+ 
+* [Un dossier, compressé au format ZIP, contenant le code, et dans le détail :](https://franckdun.github.io/La_Panthere_L4/index.html)
 
-* [Assurer l'accessibilité d'un site web](https://franckdun.github.io/La_Panthere_L4/index.html)
+* [Un fichier “index.html” contenant l’ensemble du code HTML du projet.](https://franckdun.github.io/La_Panthere_L4/index.html)
 
-* [Optimiser le référencement d'un site web](https://franckdun.github.io/La_Panthere_L4/index.html)
+* [Un dossier “CSS” comprenant un fichier “style.css” contenant l’ensemble du code CSS du projet.](https://franckdun.github.io/La_Panthere_L4/index.html)
+
+* [Un dossier “images” contenant l’ensemble des images utilisées.](https://franckdun.github.io/La_Panthere_L4/index.html)
 	   </td>  
 	     <td width="50%">
 
