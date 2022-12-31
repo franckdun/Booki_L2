@@ -3,32 +3,32 @@
   <table>	
 	 <td width="75%">
 	 
-  [![img contact](https://github.com/franckdun/Booki_L2/blob/main/img/readme-2.PNG)](https://franckdun.github.io/La_Panthere_L4/index.html)
+  [![img contact](https://github.com/franckdun/Booki_L2/blob/main/img/readme-2.PNG)](https://franckdun.github.io/Booki_L2/)
 	  </tr>
 	<tr>
 	   <td width="50%">
 	   <h2>LIVRABLE 2</h2>
      
-* [Implémenter une interface responsive](https://franckdun.github.io/La_Panthere_L4/index.html)
+* [Implémenter une interface responsive](https://franckdun.github.io/Booki_L2/)
   
-* [Intégrer du contenu conformément à une maquette](https://franckdun.github.io/La_Panthere_L4/index.html)
+* [Intégrer du contenu conformément à une maquette](https://franckdun.github.io/Booki_L2/)
 
  
     <p>Compétences évaluées</p> 
  
-* [Un dossier, compressé au format ZIP, contenant le code, et dans le détail :](https://franckdun.github.io/La_Panthere_L4/index.html)
+* [Un dossier, compressé au format ZIP, contenant le code, et dans le détail :](https://franckdun.github.io/Booki_L2/)
 
-* [Un fichier “index.html” contenant l’ensemble du code HTML du projet.](https://franckdun.github.io/La_Panthere_L4/index.html)
+* [Un fichier “index.html” contenant l’ensemble du code HTML du projet.](https://franckdun.github.io/Booki_L2/)
 
-* [Un dossier “CSS” comprenant un fichier “style.css” contenant l’ensemble du code CSS du projet.](https://franckdun.github.io/La_Panthere_L4/index.html)
+* [Un dossier “CSS” comprenant un fichier “style.css” contenant l’ensemble du code CSS du projet.](https://franckdun.github.io/Booki_L2/)
 
-* [Un dossier “images” contenant l’ensemble des images utilisées.](https://franckdun.github.io/La_Panthere_L4/index.html)
+* [Un dossier “images” contenant l’ensemble des images utilisées.](https://franckdun.github.io/Booki_L2/)
 	   </td>  
 	     <td width="50%">
 
-[![img contact](https://github.com/franckdun/Booki_L2/blob/main/img/readme-1.PNG)](https://franckdun.github.io/La_Panthere_L4/index.html)
+[![img contact](https://github.com/franckdun/Booki_L2/blob/main/img/readme-1.PNG)](https://franckdun.github.io/Booki_L2/)
 
-[![img contact](https://github.com/franckdun/Booki_L2/blob/main/img/readme.PNG)](https://franckdun.github.io/La_Panthere_L4/index.html)
+[![img contact](https://github.com/franckdun/Booki_L2/blob/main/img/readme.PNG)](https://franckdun.github.io/Booki_L2/)
 	   </td>  
 	 </tr>
  </table>
