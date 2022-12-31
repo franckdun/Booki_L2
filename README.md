@@ -1,10 +1,8 @@
-# <p align="center"><a href="https://github.com/franckdun/Learning-plan_Openclassrooms"><img src="https://img.shields.io/badge/🏠-🎓%20Web developer training Openclassrooms 2022%20🎓-C0CA33" width="750" ></a></p>
-<!-- presentation -->
+<p align="center"><a href="https://github.com/franckdun/Learning-plan_Openclassrooms"><img src="https://img.shields.io/badge/🏠-🎓%20Web developer training Openclassrooms 2022%20🎓-C0CA33" width="750" ></a></p>
 <div align="center">
-
   <table>	
 	 <td width="75%">
-	
+	 
   [![img contact](https://github.com/franckdun/Booki_L2/blob/main/img/readme-2.PNG)](https://franckdun.github.io/La_Panthere_L4/index.html)
 	  </tr>
 	<tr>
